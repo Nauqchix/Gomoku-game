@@ -53,29 +53,9 @@ Player X always moves first.
 A player wins if they achieve **five consecutive marks** in any direction:
 
 ### Horizontal
-X X X X X
-
 ### Vertical
-X
-X
-X
-X
-X
-
 ### Main Diagonal
-X . . . .
-. X . . .
-. . X . .
-. . . X .
-. . . . X
-
 ### Anti Diagonal
-. . . . X
-. . . X .
-. . X . .
-. X . . .
-X . . . .
-
 If the board fills without any player forming a streak of five → **Draw**.
 
 ---
@@ -88,6 +68,6 @@ If the board fills without any player forming a streak of five → **Draw**.
 
 ---
 ## 👥 Authors 
-| **Nguyễn Hoàng Quân** |
+**Nguyễn Hoàng Quân** 
 ---
 
